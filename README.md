@@ -2,7 +2,7 @@
   Passionate about building dynamic and static HTML components, modules, and banners.<br>
   🔹 Proficient in HTML, CSS, JavaScript, and leveraging Photoshop for static banner design.<br>
   I specialize in crafting responsive and interactive web elements, optimizing user experiences, and delivering high-quality solutions for web applications.
-  Always eager to learn,<br>collaborate, and explore new technologies to enhance my skills.</h3>
+  Always eager to learn, collaborate, and explore new technologies to enhance my skills.</h3>
 
 - 👨‍💻 All of my projects are available at [https://my-portfolio-git-main-rushikesh-pathares-projects.vercel.app/](https://my-portfolio-git-main-rushikesh-pathares-projects.vercel.app/)
 
