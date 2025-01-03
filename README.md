@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **rushikeshpathare111@gmail.com**
 
-- 📄 Know about my experiences [https://rushikesh-portfolio47.vercel.app/](https://rushikesh-portfolio47.vercel.app/)
+- 📄 Know about my experiences [Rushikesh-Portfolio](https://rushikesh-portfolio47.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
