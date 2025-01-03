@@ -1,4 +1,3 @@
-<h1 align="center">Hi 👋, I'm Rushikesh Pathare</h1>
 <h3 align="center">Hi, I'm Rushikesh Pathare 👋! Passionate about building dynamic and static HTML components, modules, and banners. 🔹 Proficient in HTML, CSS, JavaScript, and leveraging Photoshop for static banner design. I specialize in crafting responsive and interactive web elements, optimizing user experiences, and delivering high-quality solutions for web applications. Always eager to learn, collaborate, and explore new technologies to enhance my skills.</h3>
 
 - 👨‍💻 All of my projects are available at [https://my-portfolio-git-main-rushikesh-pathares-projects.vercel.app/](https://my-portfolio-git-main-rushikesh-pathares-projects.vercel.app/)
@@ -11,8 +10,8 @@
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/rushikesh-pathare47" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rushikesh-pathare47" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/rrp_4747" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/rrp_4747" height="30" width="40" /></a>
-<a href="mailto:rushikesh.pathare47@gmail.com" target="blank">
-  <img align="center" src="https://img.icons8.com/color/48/gmail-new.png" alt="rushikesh.pathare47@gmail.com" height="30" width="40" />
+<a href="mailto:rushikeshpathare111@gmail.com" target="blank">
+  <img align="center" src="https://img.icons8.com/color/48/gmail-new.png" alt="rushikeshpathare111@gmail.com" height="30" width="40" />
 </a>
 </p>
 
