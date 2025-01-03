@@ -1,4 +1,5 @@
-<h3 align="center">Hi, I'm Rushikesh Pathare 👋! Passionate about building dynamic and static HTML components, modules, and banners.
+<h3 align="center">Hi, I'm Rushikesh Pathare 👋!
+  Passionate about building dynamic and static HTML components, modules, and banners.
   🔹 Proficient in HTML, CSS, JavaScript, and leveraging Photoshop for static banner design.
   I specialize in crafting responsive and interactive web elements, optimizing user experiences, and delivering high-quality solutions for web applications.
   Always eager to learn, collaborate, and explore new technologies to enhance my skills.</h3>
